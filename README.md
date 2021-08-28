@@ -16,10 +16,10 @@
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-python-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-swiftui-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-swift-48.png" width="auto">
-<img src="https://github.com/emr4h/emr4h/blob/main/icons8-mysql-logo-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-html-5-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-css3-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-docker-48.png" width="auto">
+<img src="https://github.com/emr4h/emr4h/blob/main/icons8-mysql-logo-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-sql-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-github-48.png" width="auto">
 <img src="https://github.com/emr4h/emr4h/blob/main/icons8-visual-studio-code-2019-48.png" width="auto">
