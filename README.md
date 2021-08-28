@@ -1,14 +1,17 @@
-### Hi there I'am Emrah 👋
 <!--
 **emr4h/emr4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=emr4h&show_icons=true&theme=radical)
+<img src="https://github.com/emr4h/emr4h/blob/main/Hi%20there%20!%20I'am%20Emrah.png" width="%100">
+
+
 
 ### Short description about me :
 
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning Mobile App Development for IOS
 - 📫 How to reach me: www.emrahyldrm.com
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=emr4h&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 
