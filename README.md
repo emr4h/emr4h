@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there I'am Emrah 👋
 <!--
 **emr4h/emr4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emr4h&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+Short description about me :
 
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning Mobile App Development for IOS
