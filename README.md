@@ -1,7 +1,7 @@
 <!--
 **emr4h/emr4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://github.com/emr4h/emr4h/blob/main/Hi%20there%20!%20I'am%20Emrah.png" width="%100">
+# HI THERE I 'AM EMRAH
 
 
 
