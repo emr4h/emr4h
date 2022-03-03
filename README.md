@@ -11,10 +11,15 @@
 - 🌱 I’m currently learning Mobile App Development for IOS
 - 📫 How to reach me: www.emrahyldrm.com
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=emr4h&show_icons=true&theme=radical)
+### :zap: Github Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emr4h&show_icons=true&locale=en&layout=compact" alt="emr4h" /></p>
 
+<p>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emr4h&show_icons=true&theme=chartreuse-dark&include_all_commits=true" alt="emr4h" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emr4h&show_icons=true&theme=react&include_all_commits=true&layout=compact" alt="emr4h" width="37%">
+</p>
+<br>
 
 ### Languages and Tools:
 
@@ -41,6 +46,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/emr4h) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/sapkalihacker/?hl=tr) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.emrahyldrm.com)
+<a href="https://www.linkedin.com/in/emr4h/"  rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="left" alt="LinkedIn"/></a>
 
 
 
