@@ -2,7 +2,8 @@
 <h3 align="center">A passionate SecOps Engineer from Turkey</h3>
 
 
-<p align="center"><a href="https://tryhackme.com/p/emr4h" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe"/> </a></p>
+<p align="center"><a href="https://tryhackme.com/p/emr4h" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe"/> </a> <a href="https://app.hackthebox.com/users/610672" target="_blank"> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=gray"/></a> 
+</p>
 
 
 <br>
