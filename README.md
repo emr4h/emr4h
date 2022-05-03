@@ -32,7 +32,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emr4h&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+<br>
 <h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/emrahyldrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrahyldrw" height="30" width="40" /></a>
