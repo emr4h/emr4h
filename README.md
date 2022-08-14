@@ -2,7 +2,7 @@
 <h3 align="center">A passionate SecOps Engineer from Turkey</h3>
 
 
-<p align="center"><a href="https://tryhackme.com/p/emr4h" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe"/> </a> <a href="https://app.hackthebox.com/users/610672" target="_blank"> <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=gray"/></a> 
+<p align="center"><a href="https://tryhackme.com/p/emr4h" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logoColor=gray" alt="TryHackMe"/> </a> <a href="https://app.letsdefend.io/public_profile/user/emr4h/d9b506a2-8551-487d-8e7f-b9f59bd89774/" target="_blank"> <img src="https://img.shields.io/badge/LetsDefend-212C42?style=for-the-badge&logo=LetsDefend&logoColor=blue"/></a> 
 </p><br>
 
 
@@ -12,9 +12,9 @@
 
 - 📝 I regularly write articles on [emrahyldrm.com](https://www.emrahyldrm.com)
 
-- 💬 Ask me about **python, swift ui and cyber security**
+- 💬 Ask me about **Python, Swift UI and Cyber Security**
 
-- 📫 How to reach me **emrahyildirim@protonmail.com**
+- 📫 How to reach me **emrahyildirim@proton.me**
 
 - 📄 Know about my experiences [linkedin.com/in/emr4h/](https://www.linkedin.com/in/emr4h/)
 
