@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Mobile Application Development and Artificial Intelligence**
 
-- 📝 I regularly write articles on [emrahyldrm.com](https://www.emrahyldrm.com)
+- 📝 I regularly write articles on [sapkalihacker.com](https://sapkalihacker.com)
 
 - 💬 Ask me about **Python, Swift UI and Cyber Security**
 
-- 📫 How to reach me **emrahyildirim@proton.me**
+- 📫 How to reach me **emrahyldrm198@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/emr4h/](https://www.linkedin.com/in/emr4h/)
 
