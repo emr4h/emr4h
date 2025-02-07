@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Mobile Application Development and Artificial Intelligence**
 
-- 📝 I regularly write articles on [sapkalihacker.com](https://sapkalihacker.com)
-
 - 💬 Ask me about **Python, Swift UI and Cyber Security**
 
 - 📫 How to reach me **emrahyldrm198@gmail.com**
